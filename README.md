@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radin-Ash
 - 👀 I’m interested in AI and progaraming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning deep learning and passed advanced python course
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me radinashrafi16@gmail.com
 - 😄 Pronouns: ...
