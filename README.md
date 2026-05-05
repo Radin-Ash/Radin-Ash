@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Radin-Ash
-- 👀 I’m interested in AI and progaraming
-- 🌱 I’m currently learning deep learning and passed advanced python course
-- 💞️ I’m looking to collaborate on Microsoft
+- 👀 I’m interested in FrontEnd and progaraming
+- 🌱 I’m currently learning react and it's libraries
 - 📫 How to reach me radinashrafi16@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Radin-Ash/Radin-Ash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
